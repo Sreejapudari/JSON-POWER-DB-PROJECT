@@ -33,3 +33,5 @@ GET BY RECORD --> Get data by putting the record number
 PUT METHOD --> Insert single record to the DB
 UPDATE IN DB --> Update the data in DB
 REMOVE IN DB --> Remove the data
+Documentation Link-->
+https://login2explore.com/jpdb/docs.html#jpdb-command-request
